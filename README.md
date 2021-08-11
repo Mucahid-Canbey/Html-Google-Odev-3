@@ -4,7 +4,7 @@
 ---
 
 
-![Image](proje.jpg)
+![Image](google.png)
 
 Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitiminde oluşturduğum Html Bölüm sonu Reposu. İçerisinde bir adet README dosyası, üç adet de .html uzantısı dosya barındırıyor.
 
