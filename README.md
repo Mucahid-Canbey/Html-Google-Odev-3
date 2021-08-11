@@ -1,9 +1,10 @@
 # Kodluyoruz-Google-Odev-3
 ## Google 1998 ilk Versiyon Tasarım Ödevi
 
-![Image](proje.png)
-
 ---
+
+
+![Proje](Proje.PNG)
 
 Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitiminde oluşturduğum Html Bölüm sonu Reposu. İçerisinde bir adet README dosyası, üç adet de .html uzantısı dosya barındırıyor.
 
@@ -12,7 +13,7 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitiminde oluştur
 Öncelikle projeyi clonelayın.
 
 ```
-git clone https://github.com/Mucahid-Canbey/Kodluyoruz-Odev-2.git
+https://github.com/Mucahid-Canbey/Kodluyoruz-Google-Odev-3.git
 ```
 
 ## Usage
