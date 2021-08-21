@@ -1,5 +1,7 @@
-# Kodluyoruz-Google-Odev-3
+
 ## Google 1998 ilk Versiyon Tasarım Ödevi
+
+## ![Image](https://r.resimlink.com/QvqbJzUg.png)
 
 ---
 
@@ -13,7 +15,7 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitiminde oluştur
 Öncelikle projeyi clonelayın.
 
 ```
-https://github.com/Mucahid-Canbey/Kodluyoruz-Google-Odev-3.git
+https://github.com/Mucahid-Canbey/Html-Google-Odev-3.git
 ```
 
 ## Usage
